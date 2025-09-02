@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      NAME: Youtube Extension
+      NAME: Saavn Extension
       TAG: yt
     steps:
       - name: Checkout repo
